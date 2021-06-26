@@ -1,7 +1,7 @@
 ### ->MOOSH!<-
 ### 👋:nerd_face::speech_balloon:
 ---
-- 👀 I’m interested :question: in becoming a :star_struck: **Developer** :star_struck: when I:butterfly:*finally grow up*:butterfly:... As :cupcake:**full**:doughnut:of:birthday:**myself**:cake:as ~~I might be~~, I'm pretty short stack in my :climbing_man: journey :mount_fuji: so far:snail:. 
+- 👀 I’m interested :question: in becoming a :star_struck: **Developer** :star_struck: when I:butterfly:*finally grow up*:butterfly:... As :cupcake:**full**:doughnut:of:birthday:**myself**:cake:as ~~I might be~~, I'm pretty *short* **stack** in my :climbing_man: journey :mount_fuji: so far:snail:. 
 - 🌱 I’m currently learning :school: *__Anything__ & __Everything__ about coding* :man_technologist: that I can.:muscle::brain:  
  ---
  * Right now I am *learning*:rocket:
